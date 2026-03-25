@@ -12,8 +12,6 @@ This project was built for a web development workshop for the UVIC WECS (Women i
 - **📞 Contact Page** - Social media links and contact information
 - **🧭 Navigation Bar** - Navigation between all pages
 
-Visit the website at: https://muskan-88.github.io/personal-website-workshop/
-
 ## 🛠 Built With
 
 - React
@@ -64,8 +62,6 @@ Install gh-pages:
 npm install --save-dev gh-pages
 
 Add this to package.json:
-
-"homepage": "https://yourusername.github.io/personal-website-workshop"
 
 Run:
 
