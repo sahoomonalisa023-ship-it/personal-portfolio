@@ -5,29 +5,31 @@ const Skills = () => {
   const skills = [
     {
       name: "HTML",
-      description: "Building structured and semantic web pages.",
+      description: "Semantic & accessible web structure",
     },
     {
       name: "CSS",
-      description: "Creating responsive layouts and modern designs.",
+      description: "Responsive layouts and modern UI design",
     },
     {
       name: "JavaScript",
-      description:
-        "Adding interactivity and dynamic functionality to websites.",
+      description: "ES6+, DOM manipulation, API handling",
     },
     {
       name: "React",
-      description:
-        "Developing reusable components and single-page applications.",
+      description: "Reusable components & SPA development",
     },
     {
       name: "Tailwind CSS",
-      description: "Designing fast and responsive UI using utility-first CSS.",
+      description: "Utility-first responsive styling",
     },
     {
       name: "Bootstrap",
-      description: "Building mobile-first responsive layouts quickly.",
+      description: "Fast responsive UI development",
+    },
+    {
+      name: "Git & GitHub",
+      description: "Version control & collaboration",
     },
   ];
 
